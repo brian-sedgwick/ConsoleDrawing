@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDrawing", "ConsoleDrawing\ConsoleDrawing.csproj", "{2F00B17E-4840-47C3-AB5D-BECC7BE66947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingLib", "DrawingLib\DrawingLib.csproj", "{2B5BFB5D-9312-4A09-8070-5E6CBD4F677A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F00B17E-4840-47C3-AB5D-BECC7BE66947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F00B17E-4840-47C3-AB5D-BECC7BE66947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F00B17E-4840-47C3-AB5D-BECC7BE66947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F00B17E-4840-47C3-AB5D-BECC7BE66947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B5BFB5D-9312-4A09-8070-5E6CBD4F677A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B5BFB5D-9312-4A09-8070-5E6CBD4F677A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B5BFB5D-9312-4A09-8070-5E6CBD4F677A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B5BFB5D-9312-4A09-8070-5E6CBD4F677A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
